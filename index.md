@@ -14,7 +14,7 @@ I am a second year MPhil. student at HKUST(GZ).
 -->
 ## News
 
-- **[Sep. 2025]** Two papers are accepted to Optics Letter.
+- **[Sep. 2025]** Two papers are accepted to Optics Letters.
 
 
 {% include_relative _includes/publications.md %}
