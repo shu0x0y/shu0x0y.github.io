@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second year MPhil. student at HKUST(GZ).
+I am a second-year MPhil. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My research interests include Computer-generated holography, Computational display and AR/VR.
 
 <!-- 
 # Research Interests
