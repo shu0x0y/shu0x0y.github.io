@@ -48,7 +48,7 @@
 
 <!-- 切换按钮 -->
 <div style="text-align: center; margin: 20px 0;">
-  <button id="toggle-publications" class="btn btn-primary" style="padding: 10px 20px;">
+  <button id="toggle-publications" class="btn btn-primary" style="padding: 10px 20px; font-family: 'Inter', sans-serif;">
     Show All Publications
   </button>
 </div>
@@ -59,6 +59,11 @@
 .publication-hidden {
   display: none;
 }
+
+#toggle-publications {
+  font-family: 'Inter', sans-serif;
+}
+  
 </style>
 
 <script>
